@@ -82,3 +82,15 @@ section > .conteinr > p {
 .konec {
   text-align: center;
 }
+
+.my-sluzby {
+  list-style: none;
+
+  li {
+    display:inline-block;
+  }
+}
+
+.seznam-container {
+  text-align: center;
+}
